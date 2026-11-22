@@ -1,2 +1,1 @@
-# fuzzy-octo-guacamole
-cf solver tunnels
+Auto-created solver repo. `Solver2.yml` publishes trycloudflare URLs to `urls/<run_id>.txt`.
